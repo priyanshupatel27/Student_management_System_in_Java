@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # College Student Management System
 
 A beginner-friendly Java-based College Student Management System developed as a second-year college project.
@@ -33,3 +34,7 @@ A beginner-friendly Java-based College Student Management System developed as a 
 ## GitHub Repository
 
 [Student Management System in Java](https://github.com/priyanshupatel27/Student_management_System_in_Java)
+=======
+# Student_management_System_in_Java
+A beginner-friendly Java Student Management System using ArrayList, HashMap, Linear Search, and Sorting. Features include adding, displaying, searching, updating, deleting, and sorting student records, along with course-wise student counting. Developed as a college project to practice Java Collections and OOP concepts.
+>>>>>>> a7071545f8fdb10e5fd846769221f61d5cc67a97
